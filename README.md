@@ -1,4 +1,0 @@
-rosalind
-========
-
-Solutions for ROSALIND
